@@ -538,3 +538,7 @@ footer li + li{
     display: block;
   }
 }
+
+.jigyou{
+  cursor: pointer;
+}
