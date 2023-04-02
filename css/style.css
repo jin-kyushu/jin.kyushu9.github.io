@@ -345,6 +345,10 @@ header button{
   margin-top: 16px;
 }
 
+.access-txt{
+  margin-top: 10px;
+}
+
 /* kv */
 .kv{
   width: 100%;
@@ -382,6 +386,19 @@ header button{
 }
 .kv-detail .section-ttl::before{
   color: #fff;
+}
+
+/* mail */
+.mail{
+  background: rgba(255, 255, 255, 0.892);
+  border-radius: 10px;
+ text-align: center;
+ border: solid rgb(71, 137, 84) 1px;
+ margin-top: 30px;
+ padding-bottom: 10px;
+}
+.mail-address{
+  color: cornflowerblue;
 }
 
 
