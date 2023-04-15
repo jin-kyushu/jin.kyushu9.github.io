@@ -535,11 +535,22 @@ footer li + li{
   margin-left: 8px;
 }
 
+
 /* media screen */
 
-@media (min-width: 600px){
+@media (min-width: 450px){
     .products li{
       width: calc((100% - 32px) / 3);
+    }
+   
+    }
+    .section-ttl{
+      text-align: left;
+      font-size: 32px;
+    }
+    .concept-txt-main{
+      text-align: left;
+      font-size: 24px;
     }
 }
 
@@ -550,7 +561,6 @@ footer li + li{
     margin: 0 auto;
     max-width: 1500px;
   }
-
   header form{
     display: block;
   }
