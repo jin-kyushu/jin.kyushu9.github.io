@@ -581,7 +581,10 @@ footer li + li{
       height: 250px; ;
     }
     .section-inner-s{
-      width: 440px;
+      width: 407px;
+    }
+    .access-content{
+      width: 407px;
     }
     .access-content-img{
       width: 200px;
@@ -591,6 +594,10 @@ footer li + li{
     }
     .access-content-txt-box{
       margin-left: 120px;
+    }
+    h1 img{
+      width: 100px;
+      height: 90px;
     }
 }
 
