@@ -590,6 +590,9 @@ footer li + li{
     .section-inner-s{
       width: 374px;
     }
+    .concept-section-wrap{
+      width: 374px;
+    }
     .concept-detail-wrap{
       flex-direction: column;
     }
