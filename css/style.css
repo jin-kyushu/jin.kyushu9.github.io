@@ -11,6 +11,9 @@ h2{
   font-weight: normal;
 }
 
+.hero{
+  background:#cdeedf;}
+
 p{
   margin: 0;
 }
@@ -118,6 +121,7 @@ header button{
 .concept-img-box{
   height: 350px;
   margin-top: 80px;
+  background:#cdeedf;
 }
 
 .consept-detail-content{
@@ -151,6 +155,7 @@ header button{
   object-fit: cover;
   object-position: top;
 }
+
 
 
 .concept-detail-wrap{
@@ -624,7 +629,7 @@ footer li + li{
       width: 100px;
     }
     .access-content-txt-box{
-      margin-left: 100px;
+      margin-left: 180px;
     }
     h1 img{
       width: 100px;
