@@ -324,7 +324,7 @@ header button{
 
 .access-content{
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   margin-top: 60px;
 }
@@ -629,7 +629,9 @@ footer li + li{
       width: 100px;
     }
     .access-content-txt-box{
-      margin-left: 180px;
+      margin-left: 10px;
+    
+     
     }
     h1 img{
       width: 100px;
